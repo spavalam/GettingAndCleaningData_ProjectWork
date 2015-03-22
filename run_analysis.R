@@ -58,4 +58,4 @@ for (i in 1:30) {
 # STEP 6. Rename stuff and output the data to "Output_Tidy_Samsung_Data.txt"
 colnames(tidyframe)<-colnames(newDataFrame2) #rename the columns again, as the names get lost in the mix above
 levels(tidyframe[,2])<-c('walk','upstairswalk','downstairswalk', 'sit','stand', 'lay')
-write.table(tidyframe, "Output_Tidy_Samsung_Data.txt", sep = "")      
+write.table(tidyframe, "Output_Tidy_Samsung_Data.txt", sep = "", row.name=FALSE)      
