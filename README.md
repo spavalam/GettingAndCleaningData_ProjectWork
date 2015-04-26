@@ -1,20 +1,20 @@
 # GettingAndCleaningData_ProjectWork
 
-# This repository hosts the R code and documentation files for the Data Science's track course "Getting and Cleaning data".
+## This repository hosts the R code and documentation files for the Data Science's track course "Getting and Cleaning data".
 
-#The dataset used is: Human Activity Recognition Using Smartphones 
+## The dataset used is: Human Activity Recognition Using Smartphones 
 
-# CodeBook.md describes the variables, the data, and any transformations or work that was performed to clean up the data.
+## CodeBook.md describes the variables, the data, and any transformations or work that was performed to clean up the data.
 
-# The R Code viz: "run_analysis.R" contains all the code to perform the analysis in this project work.
+## The R Code viz: "run_analysis.R" contains all the code to perform the analysis in this project work.
 
 ##Files
 
-# The R Program "run_analysis.R" generates the output tidy file called as "Output_Tidy_Samsung_Data_Old.txt" in the current working directory.
+The R Program "run_analysis.R" generates the output tidy file called as "Output_Tidy_Samsung_Data_Old.txt" in the current working directory.
 
-# All the relevant input Data Files for this project is assumed to be present in un-compressed format and in the same folder. 
+All the relevant input Data Files for this project is assumed to be present in un-compressed format and in the same folder. 
 
-# The following are the files present in the compressed file. Description of those files are also given below:
+The following are the files present in the compressed file. Description of those files are also given below:
 
 - 'README.txt'
 
